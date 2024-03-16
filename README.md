@@ -1,5 +1,6 @@
 # ChatGPT-for-Android
-安卓手机ChatGPT安装教程
+安卓手机ChatGPT安装教程			
+
 **一、注册play账号**
 	这个非常简单，打开play官网首页注册就可以，需要墙，订阅地址 https://www.easyfastcloud.com/#/register?code=nTfm21KM
 **二、需要安装play服务框架，play商店，**
